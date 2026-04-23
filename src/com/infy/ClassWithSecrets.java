@@ -6,7 +6,7 @@ public class ClassWithSecrets {
 		// TODO Auto-generated method stub
 		String username = "USERNAME";
 		String password = "Password";
-		System.out.println(username+" "+password);
+		System.out.println(username+"=>"+password);
 
 	}
 
